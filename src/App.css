@@ -1,0 +1,19 @@
+.nav-link:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+}
+li:hover {
+  cursor: pointer;
+}
+.gloss-list {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.2),
+    rgba(255, 255, 255, 0.1)
+  );
+  border-radius: 20px;
+  color: white;
+  font-size: small;
+  margin-bottom: 20px;
+  padding-right: 20px;
+}
