@@ -35,13 +35,17 @@ Type http://localhost:3001/ into a browser.
 2. Doctor Dashboard : username: stdubai182@gmail.com ; password: dubaidoc
 3. Admin Dashboard : username: admin@gmail.com ; password: admin
 ```
-## Screenshots 
-![1](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Admin.png)
-![2](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Appointment.png)
-![3](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Chat%20.png)
-![4](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Patientlist.png)
-![5](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Patient%20-%20Appointment%20.png)
+## Screenshots
+![0](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Login.png)
+![1](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Register%20.png)
+![2](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Admin.png)
+![3](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Appointment.png)
+![4](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Chat%20.png)
+![5](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Patientlist.png)
 ![6](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Patient%20-%20Appointment%20.png)
+![7](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Patient%20-%20Appointment%20.png)
+![8](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Patient%20-%20Appointment%20.png)
+
 
 
 ## License 
