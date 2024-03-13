@@ -36,6 +36,12 @@ Type http://localhost:3001/ into a browser.
 3. Admin Dashboard : username: admin@gmail.com ; password: admin
 ```
 ## Screenshots 
-![Patient Dashboard]()
+![1](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Admin.png)
+![2](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Appointment.png)
+![3](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Chat%20.png)
+![4](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Doctor-%20Patientlist.png)
+![5](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Patient%20-%20Appointment%20.png)
+![6](https://github.com/POOVASOKAN/client-his/blob/main/screenshots/Patient%20-%20Appointment%20.png)
+
 
 ## License 
