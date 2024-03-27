@@ -368,7 +368,7 @@ export default function HisProvider({ children }) {
     })
       .then((res) => res.json())
       .then((data) => {
-        if (data.success) {
+        if (data.sucesss) {
           setMessages(data.messages);
         } else {
           toast.error(data.message);
